@@ -1,0 +1,30 @@
+{
+  "name": "planner",
+  "version": "0.1.0",
+  "description": "A scheduler to organize hierarchical tasks within a project’s date range",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/output.js",
+    "main": "node index.js",
+    "test": "node --disable-warning=ExperimentalWarning --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "imports": {
+    "#composites/*": "./composites/*.js",
+    "#facades/*": "./facades/*.js",
+    "#helpers/*": "./helpers/*.js",
+    "#iterators/*": "./iterators/*.js",
+    "#i18n/*": "./i18n/*.js",
+    "#services/*": "./services/*.js",
+    "#utils/*": "./utils/*.js"
+  },
+  "dependencies": {
+    "csv": "^6.3.11",
+    "dotenv": "^16.5.0",
+    "i18next": "^25.2.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "license": "MIT"
+}

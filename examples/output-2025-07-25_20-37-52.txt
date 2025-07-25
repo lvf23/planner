@@ -1,0 +1,599 @@
+
+> planner@0.1.0 main
+> node index.js
+
+This document was generated in: 25/07/2025 at 20:37:53
+
+================================================================================
+
+PROJECTS
+
+id     : 1
+name   : My First Project
+start  : 01/01/2026
+end    : 01/02/2026
+
+PROJECT STATS
+
+tasks                 : 163
+days                  : 22
+tasksPerDay           : 7
+remainingTasks        : 9
+daysPerRemainingTask  : 2
+
+================================================================================
+
+projects
+  [ ] (#1) My First Project - 01/01/2026 - 01/02/2026
+    subjects
+      [ ] (#1) {$1} Math
+        projects
+          [ ] (#15) {$1} Calculus project - Land
+          [ ] (#16) {$2} Geometry exercises - Level
+          [ ] (#17) {$3} Geometry exercises - Bill
+          [ ] (#39) {$4} Probability assignment - Administration
+          [ ] (#40) {$5} Algebra homework - Reason
+            exercises
+              [ ] (#41) {$6} Geometry exercises - Share
+                researchs
+                  [ ] (#42) {$7} Geometry exercises - Teach
+                    activitys
+                      [ ] (#43) {$8} Trigonometry reading - Spend
+                      [ ] (#44) {$9} Algebra homework - Wife
+                      [ ] (#45) {$10} Probability assignment - Answer
+                  [ ] (#46) {$11} Algebra homework - Exactly
+                    projects
+                      [ ] (#47) {$12} Trigonometry reading - Again
+                  [ ] (#48) {$13} Trigonometry reading - Stop
+                    readings
+                      [ ] (#49) {$14} Trigonometry reading - Appear
+              [ ] (#50) {$15} Probability assignment - Letter
+                projects
+                  [ ] (#51) {$16} Algebra homework - General
+                    projects
+                      [ ] (#52) {$17} Probability assignment - Left
+                      [ ] (#53) {$18} Algebra homework - Dog
+                      [ ] (#54) {$19} Algebra homework - View
+                  [ ] (#55) {$20} Geometry exercises - Final
+                  [ ] (#56) {$21} Geometry exercises - Religious
+          [ ] (#41) {$6} Geometry exercises - Share
+            researchs
+              [ ] (#42) {$7} Geometry exercises - Teach
+                activitys
+                  [ ] (#43) {$8} Trigonometry reading - Spend
+                  [ ] (#44) {$9} Algebra homework - Wife
+                  [ ] (#45) {$10} Probability assignment - Answer
+              [ ] (#46) {$11} Algebra homework - Exactly
+                projects
+                  [ ] (#47) {$12} Trigonometry reading - Again
+              [ ] (#48) {$13} Trigonometry reading - Stop
+                readings
+                  [ ] (#49) {$14} Trigonometry reading - Appear
+          [ ] (#42) {$7} Geometry exercises - Teach
+            activitys
+              [ ] (#43) {$8} Trigonometry reading - Spend
+              [ ] (#44) {$9} Algebra homework - Wife
+              [ ] (#45) {$10} Probability assignment - Answer
+          [ ] (#43) {$8} Trigonometry reading - Spend
+          [ ] (#44) {$9} Algebra homework - Wife
+          [ ] (#45) {$10} Probability assignment - Answer
+          [ ] (#46) {$11} Algebra homework - Exactly
+            projects
+              [ ] (#47) {$12} Trigonometry reading - Again
+          [ ] (#47) {$12} Trigonometry reading - Again
+          [ ] (#48) {$13} Trigonometry reading - Stop
+            readings
+              [ ] (#49) {$14} Trigonometry reading - Appear
+          [ ] (#49) {$14} Trigonometry reading - Appear
+          [ ] (#50) {$15} Probability assignment - Letter
+            projects
+              [ ] (#51) {$16} Algebra homework - General
+                projects
+                  [ ] (#52) {$17} Probability assignment - Left
+                  [ ] (#53) {$18} Algebra homework - Dog
+                  [ ] (#54) {$19} Algebra homework - View
+              [ ] (#55) {$20} Geometry exercises - Final
+              [ ] (#56) {$21} Geometry exercises - Religious
+          [ ] (#51) {$16} Algebra homework - General
+            projects
+              [ ] (#52) {$17} Probability assignment - Left
+              [ ] (#53) {$18} Algebra homework - Dog
+              [ ] (#54) {$19} Algebra homework - View
+          [ ] (#52) {$17} Probability assignment - Left
+          [ ] (#53) {$18} Algebra homework - Dog
+          [ ] (#54) {$19} Algebra homework - View
+          [ ] (#55) {$20} Geometry exercises - Final
+          [ ] (#56) {$21} Geometry exercises - Religious
+          [ ] (#94) {$22} Calculus project - Laugh
+            activitys
+              [ ] (#95) {$23} Trigonometry reading - Local
+              [ ] (#96) {$24} Trigonometry reading - Ago
+                exercises
+                  [ ] (#97) {$25} Probability assignment - Sport
+                  [ ] (#98) {$26} Trigonometry reading - Many
+                  [ ] (#99) {$27} Algebra homework - Field
+                    projects
+                      [ ] (#100) {$28} Probability assignment - Mother
+          [ ] (#95) {$23} Trigonometry reading - Local
+          [ ] (#96) {$24} Trigonometry reading - Ago
+            exercises
+              [ ] (#97) {$25} Probability assignment - Sport
+              [ ] (#98) {$26} Trigonometry reading - Many
+              [ ] (#99) {$27} Algebra homework - Field
+                projects
+                  [ ] (#100) {$28} Probability assignment - Mother
+          [ ] (#97) {$25} Probability assignment - Sport
+          [ ] (#98) {$26} Trigonometry reading - Many
+          [ ] (#99) {$27} Algebra homework - Field
+            projects
+              [ ] (#100) {$28} Probability assignment - Mother
+          [ ] (#100) {$28} Probability assignment - Mother
+      [ ] (#2) {$2} English
+        researchs
+          [ ] (#1) {$1} Reading comprehension - Despite
+          [ ] (#2) {$2} Grammar exercises - Value
+          [ ] (#3) {$3} Grammar exercises - Water
+            projects
+              [ ] (#4) {$4} Essay writing - Finally
+              [ ] (#5) {$5} Vocabulary quiz - Guess
+                exercises
+                  [ ] (#6) {$6} Essay writing - Discussion
+                  [ ] (#7) {$7} Speaking practice - Guy
+              [ ] (#8) {$8} Vocabulary quiz - Agency
+          [ ] (#4) {$4} Essay writing - Finally
+          [ ] (#5) {$5} Vocabulary quiz - Guess
+            exercises
+              [ ] (#6) {$6} Essay writing - Discussion
+              [ ] (#7) {$7} Speaking practice - Guy
+          [ ] (#6) {$6} Essay writing - Discussion
+          [ ] (#7) {$7} Speaking practice - Guy
+          [ ] (#8) {$8} Vocabulary quiz - Agency
+          [ ] (#23) {$9} Vocabulary quiz - Side
+          [ ] (#24) {$10} Speaking practice - Night
+          [ ] (#57) {$11} Reading comprehension - Dinner
+            readings
+              [ ] (#58) {$12} Speaking practice - Laugh
+                researchs
+                  [ ] (#59) {$13} Speaking practice - Detail
+                  [ ] (#60) {$14} Grammar exercises - Report
+                  [ ] (#61) {$15} Essay writing - May
+              [ ] (#62) {$16} Reading comprehension - Audience
+                activitys
+                  [ ] (#63) {$17} Vocabulary quiz - Field
+                  [ ] (#64) {$18} Grammar exercises - Bed
+                    projects
+                      [ ] (#65) {$19} Reading comprehension - Make
+                      [ ] (#66) {$20} Reading comprehension - Difficult
+                      [ ] (#67) {$21} Reading comprehension - Big
+                  [ ] (#68) {$22} Essay writing - Everyone
+                    activitys
+                      [ ] (#69) {$23} Grammar exercises - Son
+                      [ ] (#70) {$24} Vocabulary quiz - Young
+          [ ] (#58) {$12} Speaking practice - Laugh
+            researchs
+              [ ] (#59) {$13} Speaking practice - Detail
+              [ ] (#60) {$14} Grammar exercises - Report
+              [ ] (#61) {$15} Essay writing - May
+          [ ] (#59) {$13} Speaking practice - Detail
+          [ ] (#60) {$14} Grammar exercises - Report
+          [ ] (#61) {$15} Essay writing - May
+          [ ] (#62) {$16} Reading comprehension - Audience
+            activitys
+              [ ] (#63) {$17} Vocabulary quiz - Field
+              [ ] (#64) {$18} Grammar exercises - Bed
+                projects
+                  [ ] (#65) {$19} Reading comprehension - Make
+                  [ ] (#66) {$20} Reading comprehension - Difficult
+                  [ ] (#67) {$21} Reading comprehension - Big
+              [ ] (#68) {$22} Essay writing - Everyone
+                activitys
+                  [ ] (#69) {$23} Grammar exercises - Son
+                  [ ] (#70) {$24} Vocabulary quiz - Young
+          [ ] (#63) {$17} Vocabulary quiz - Field
+          [ ] (#64) {$18} Grammar exercises - Bed
+            projects
+              [ ] (#65) {$19} Reading comprehension - Make
+              [ ] (#66) {$20} Reading comprehension - Difficult
+              [ ] (#67) {$21} Reading comprehension - Big
+          [ ] (#65) {$19} Reading comprehension - Make
+          [ ] (#66) {$20} Reading comprehension - Difficult
+          [ ] (#67) {$21} Reading comprehension - Big
+          [ ] (#68) {$22} Essay writing - Everyone
+            activitys
+              [ ] (#69) {$23} Grammar exercises - Son
+              [ ] (#70) {$24} Vocabulary quiz - Young
+          [ ] (#69) {$23} Grammar exercises - Son
+          [ ] (#70) {$24} Vocabulary quiz - Young
+          [ ] (#86) {$25} Vocabulary quiz - National
+            readings
+              [ ] (#87) {$26} Vocabulary quiz - Shoulder
+              [ ] (#88) {$27} Speaking practice - Near
+                exercises
+                  [ ] (#89) {$28} Vocabulary quiz - Money
+                    readings
+                      [ ] (#90) {$29} Speaking practice - Save
+                  [ ] (#91) {$30} Speaking practice - Measure
+              [ ] (#92) {$31} Vocabulary quiz - Go
+          [ ] (#87) {$26} Vocabulary quiz - Shoulder
+          [ ] (#88) {$27} Speaking practice - Near
+            exercises
+              [ ] (#89) {$28} Vocabulary quiz - Money
+                readings
+                  [ ] (#90) {$29} Speaking practice - Save
+              [ ] (#91) {$30} Speaking practice - Measure
+          [ ] (#89) {$28} Vocabulary quiz - Money
+            readings
+              [ ] (#90) {$29} Speaking practice - Save
+          [ ] (#90) {$29} Speaking practice - Save
+          [ ] (#91) {$30} Speaking practice - Measure
+          [ ] (#92) {$31} Vocabulary quiz - Go
+          [ ] (#93) {$32} Vocabulary quiz - Rich
+      [ ] (#3) {$3} Chemistry
+        exercises
+          [ ] (#9) {$1} Organic chemistry notes - Teacher
+          [ ] (#25) {$2} Biochemistry research - Ahead
+            exercises
+              [ ] (#26) {$3} Chemical reactions lab - Why
+                activitys
+                  [ ] (#27) {$4} Organic chemistry notes - Let
+                    readings
+                      [ ] (#28) {$5} Chemical reactions lab - Foot
+                      [ ] (#29) {$6} Periodic table study - Soldier
+                  [ ] (#30) {$7} Biochemistry research - Cell
+                  [ ] (#31) {$8} Organic chemistry notes - None
+          [ ] (#26) {$3} Chemical reactions lab - Why
+            activitys
+              [ ] (#27) {$4} Organic chemistry notes - Let
+                readings
+                  [ ] (#28) {$5} Chemical reactions lab - Foot
+                  [ ] (#29) {$6} Periodic table study - Soldier
+              [ ] (#30) {$7} Biochemistry research - Cell
+              [ ] (#31) {$8} Organic chemistry notes - None
+          [ ] (#27) {$4} Organic chemistry notes - Let
+            readings
+              [ ] (#28) {$5} Chemical reactions lab - Foot
+              [ ] (#29) {$6} Periodic table study - Soldier
+          [ ] (#28) {$5} Chemical reactions lab - Foot
+          [ ] (#29) {$6} Periodic table study - Soldier
+          [ ] (#30) {$7} Biochemistry research - Cell
+          [ ] (#31) {$8} Organic chemistry notes - None
+          [ ] (#32) {$9} Biochemistry research - Rather
+          [ ] (#71) {$10} Chemical reactions lab - Agree
+          [ ] (#72) {$11} Organic chemistry notes - Born
+            exercises
+              [ ] (#73) {$12} Stoichiometry problems - Factor
+          [ ] (#73) {$12} Stoichiometry problems - Factor
+          [ ] (#83) {$13} Biochemistry research - Send
+            researchs
+              [ ] (#84) {$14} Periodic table study - Other
+          [ ] (#84) {$14} Periodic table study - Other
+          [ ] (#85) {$15} Stoichiometry problems - Recent
+      [ ] (#4) {$4} Data Science
+        projects
+          [ ] (#10) {$1} Data visualization - Woman
+            projects
+              [ ] (#11) {$2} Data cleaning - Prepare
+              [ ] (#12) {$3} Data visualization - Stand
+              [ ] (#13) {$4} Data cleaning - Thought
+          [ ] (#11) {$2} Data cleaning - Prepare
+          [ ] (#12) {$3} Data visualization - Stand
+          [ ] (#13) {$4} Data cleaning - Thought
+          [ ] (#14) {$5} Data visualization - Well
+          [ ] (#77) {$6} Data cleaning - Only
+          [ ] (#81) {$7} Data visualization - Dinner
+          [ ] (#82) {$8} Python coding exercise - Drop
+      [ ] (#5) {$5} History
+        researchs
+          [ ] (#18) {$1} Ancient civilizations presentation - Event
+          [ ] (#19) {$2} Civil rights research - Idea
+          [ ] (#20) {$3} Medieval history reading - Quite
+            activitys
+              [ ] (#21) {$4} Civil rights research - Future
+                projects
+                  [ ] (#22) {$5} Historical timelines - Admit
+          [ ] (#21) {$4} Civil rights research - Future
+            projects
+              [ ] (#22) {$5} Historical timelines - Admit
+          [ ] (#22) {$5} Historical timelines - Admit
+          [ ] (#33) {$6} Medieval history reading - Machine
+            readings
+              [ ] (#34) {$7} Civil rights research - House
+              [ ] (#35) {$8} World War II essay - Audience
+                researchs
+                  [ ] (#36) {$9} World War II essay - Indicate
+          [ ] (#34) {$7} Civil rights research - House
+          [ ] (#35) {$8} World War II essay - Audience
+            researchs
+              [ ] (#36) {$9} World War II essay - Indicate
+          [ ] (#36) {$9} World War II essay - Indicate
+          [ ] (#37) {$10} Medieval history reading - Treatment
+          [ ] (#38) {$11} Historical timelines - Price
+          [ ] (#74) {$12} Ancient civilizations presentation - Improve
+          [ ] (#75) {$13} Medieval history reading - Human
+            readings
+              [ ] (#76) {$14} Medieval history reading - Off
+          [ ] (#76) {$14} Medieval history reading - Off
+          [ ] (#78) {$15} Ancient civilizations presentation - Something
+            researchs
+              [ ] (#79) {$16} Civil rights research - Trial
+              [ ] (#80) {$17} World War II essay - Light
+          [ ] (#79) {$16} Civil rights research - Trial
+          [ ] (#80) {$17} World War II essay - Light
+
+================================================================================
+
+TODO
+
+01/01/2026 - Thursday ------------------------------------------------------------
+
+Project: (#1) My First Project - (8):
+
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#15) {$1} [project] Calculus project - Land
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#16) {$2} [research] Geometry exercises - Level
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#17) {$3} [reading] Geometry exercises - Bill
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#39) {$4} [exercise] Probability assignment - Administration
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#43) {$8} [activity] Trigonometry reading - Spend
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#44) {$9} [project] Algebra homework - Wife
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#45) {$10} [research] Probability assignment - Answer
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#47) {$12} [project] Trigonometry reading - Again
+
+02/01/2026 - Friday --------------------------------------------------------------
+
+Project: (#1) My First Project - (7):
+
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#49) {$14} [reading] Trigonometry reading - Appear
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#52) {$17} [project] Probability assignment - Left
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#53) {$18} [exercise] Algebra homework - Dog
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#54) {$19} [reading] Algebra homework - View
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#55) {$20} [reading] Geometry exercises - Final
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#56) {$21} [reading] Geometry exercises - Religious
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#43) {$8} [activity] Trigonometry reading - Spend
+
+05/01/2026 - Monday --------------------------------------------------------------
+
+Project: (#1) My First Project - (8):
+
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#44) {$9} [project] Algebra homework - Wife
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#45) {$10} [research] Probability assignment - Answer
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#47) {$12} [project] Trigonometry reading - Again
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#49) {$14} [reading] Trigonometry reading - Appear
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#43) {$8} [activity] Trigonometry reading - Spend
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#44) {$9} [project] Algebra homework - Wife
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#45) {$10} [research] Probability assignment - Answer
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#43) {$8} [activity] Trigonometry reading - Spend
+
+06/01/2026 - Tuesday -------------------------------------------------------------
+
+Project: (#1) My First Project - (7):
+
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#44) {$9} [project] Algebra homework - Wife
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#45) {$10} [research] Probability assignment - Answer
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#47) {$12} [project] Trigonometry reading - Again
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#47) {$12} [project] Trigonometry reading - Again
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#49) {$14} [reading] Trigonometry reading - Appear
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#49) {$14} [reading] Trigonometry reading - Appear
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#52) {$17} [project] Probability assignment - Left
+
+07/01/2026 - Wednesday -----------------------------------------------------------
+
+Project: (#1) My First Project - (8):
+
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#53) {$18} [exercise] Algebra homework - Dog
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#54) {$19} [reading] Algebra homework - View
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#55) {$20} [reading] Geometry exercises - Final
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#56) {$21} [reading] Geometry exercises - Religious
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#52) {$17} [project] Probability assignment - Left
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#53) {$18} [exercise] Algebra homework - Dog
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#54) {$19} [reading] Algebra homework - View
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#52) {$17} [project] Probability assignment - Left
+
+08/01/2026 - Thursday ------------------------------------------------------------
+
+Project: (#1) My First Project - (7):
+
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#53) {$18} [exercise] Algebra homework - Dog
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#54) {$19} [reading] Algebra homework - View
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#55) {$20} [reading] Geometry exercises - Final
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#56) {$21} [reading] Geometry exercises - Religious
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#95) {$23} [activity] Trigonometry reading - Local
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#97) {$25} [exercise] Probability assignment - Sport
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#98) {$26} [project] Trigonometry reading - Many
+
+09/01/2026 - Friday --------------------------------------------------------------
+
+Project: (#1) My First Project - (8):
+
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#100) {$28} [project] Probability assignment - Mother
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#95) {$23} [activity] Trigonometry reading - Local
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#97) {$25} [exercise] Probability assignment - Sport
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#98) {$26} [project] Trigonometry reading - Many
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#100) {$28} [project] Probability assignment - Mother
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#97) {$25} [exercise] Probability assignment - Sport
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#98) {$26} [project] Trigonometry reading - Many
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#100) {$28} [project] Probability assignment - Mother
+
+12/01/2026 - Monday --------------------------------------------------------------
+
+Project: (#1) My First Project - (7):
+
+[ ] Project: (#1) My First Project / Subject: (#1) {$1} Math / Task: (#100) {$28} [project] Probability assignment - Mother
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#1) {$1} [research] Reading comprehension - Despite
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#2) {$2} [project] Grammar exercises - Value
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#4) {$4} [project] Essay writing - Finally
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#6) {$6} [exercise] Essay writing - Discussion
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#7) {$7} [reading] Speaking practice - Guy
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#8) {$8} [research] Vocabulary quiz - Agency
+
+13/01/2026 - Tuesday -------------------------------------------------------------
+
+Project: (#1) My First Project - (8):
+
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#4) {$4} [project] Essay writing - Finally
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#6) {$6} [exercise] Essay writing - Discussion
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#7) {$7} [reading] Speaking practice - Guy
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#6) {$6} [exercise] Essay writing - Discussion
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#7) {$7} [reading] Speaking practice - Guy
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#8) {$8} [research] Vocabulary quiz - Agency
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#23) {$9} [research] Vocabulary quiz - Side
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#24) {$10} [research] Speaking practice - Night
+
+14/01/2026 - Wednesday -----------------------------------------------------------
+
+Project: (#1) My First Project - (7):
+
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#59) {$13} [research] Speaking practice - Detail
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#60) {$14} [activity] Grammar exercises - Report
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#61) {$15} [reading] Essay writing - May
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#63) {$17} [activity] Vocabulary quiz - Field
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#65) {$19} [project] Reading comprehension - Make
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#66) {$20} [activity] Reading comprehension - Difficult
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#67) {$21} [activity] Reading comprehension - Big
+
+15/01/2026 - Thursday ------------------------------------------------------------
+
+Project: (#1) My First Project - (8):
+
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#69) {$23} [activity] Grammar exercises - Son
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#70) {$24} [reading] Vocabulary quiz - Young
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#59) {$13} [research] Speaking practice - Detail
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#60) {$14} [activity] Grammar exercises - Report
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#61) {$15} [reading] Essay writing - May
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#59) {$13} [research] Speaking practice - Detail
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#60) {$14} [activity] Grammar exercises - Report
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#61) {$15} [reading] Essay writing - May
+
+16/01/2026 - Friday --------------------------------------------------------------
+
+Project: (#1) My First Project - (7):
+
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#63) {$17} [activity] Vocabulary quiz - Field
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#65) {$19} [project] Reading comprehension - Make
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#66) {$20} [activity] Reading comprehension - Difficult
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#67) {$21} [activity] Reading comprehension - Big
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#69) {$23} [activity] Grammar exercises - Son
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#70) {$24} [reading] Vocabulary quiz - Young
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#63) {$17} [activity] Vocabulary quiz - Field
+
+19/01/2026 - Monday --------------------------------------------------------------
+
+Project: (#1) My First Project - (8):
+
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#65) {$19} [project] Reading comprehension - Make
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#66) {$20} [activity] Reading comprehension - Difficult
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#67) {$21} [activity] Reading comprehension - Big
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#65) {$19} [project] Reading comprehension - Make
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#66) {$20} [activity] Reading comprehension - Difficult
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#67) {$21} [activity] Reading comprehension - Big
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#69) {$23} [activity] Grammar exercises - Son
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#70) {$24} [reading] Vocabulary quiz - Young
+
+20/01/2026 - Tuesday -------------------------------------------------------------
+
+Project: (#1) My First Project - (7):
+
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#69) {$23} [activity] Grammar exercises - Son
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#70) {$24} [reading] Vocabulary quiz - Young
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#87) {$26} [reading] Vocabulary quiz - Shoulder
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#90) {$29} [reading] Speaking practice - Save
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#91) {$30} [activity] Speaking practice - Measure
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#92) {$31} [exercise] Vocabulary quiz - Go
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#87) {$26} [reading] Vocabulary quiz - Shoulder
+
+21/01/2026 - Wednesday -----------------------------------------------------------
+
+Project: (#1) My First Project - (7):
+
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#90) {$29} [reading] Speaking practice - Save
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#91) {$30} [activity] Speaking practice - Measure
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#90) {$29} [reading] Speaking practice - Save
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#90) {$29} [reading] Speaking practice - Save
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#91) {$30} [activity] Speaking practice - Measure
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#92) {$31} [exercise] Vocabulary quiz - Go
+[ ] Project: (#1) My First Project / Subject: (#2) {$2} English / Task: (#93) {$32} [project] Vocabulary quiz - Rich
+
+22/01/2026 - Thursday ------------------------------------------------------------
+
+Project: (#1) My First Project - (7):
+
+[ ] Project: (#1) My First Project / Subject: (#3) {$3} Chemistry / Task: (#9) {$1} [exercise] Organic chemistry notes - Teacher
+[ ] Project: (#1) My First Project / Subject: (#3) {$3} Chemistry / Task: (#28) {$5} [reading] Chemical reactions lab - Foot
+[ ] Project: (#1) My First Project / Subject: (#3) {$3} Chemistry / Task: (#29) {$6} [reading] Periodic table study - Soldier
+[ ] Project: (#1) My First Project / Subject: (#3) {$3} Chemistry / Task: (#30) {$7} [project] Biochemistry research - Cell
+[ ] Project: (#1) My First Project / Subject: (#3) {$3} Chemistry / Task: (#31) {$8} [exercise] Organic chemistry notes - None
+[ ] Project: (#1) My First Project / Subject: (#3) {$3} Chemistry / Task: (#28) {$5} [reading] Chemical reactions lab - Foot
+[ ] Project: (#1) My First Project / Subject: (#3) {$3} Chemistry / Task: (#29) {$6} [reading] Periodic table study - Soldier
+
+23/01/2026 - Friday --------------------------------------------------------------
+
+Project: (#1) My First Project - (8):
+
+[ ] Project: (#1) My First Project / Subject: (#3) {$3} Chemistry / Task: (#30) {$7} [project] Biochemistry research - Cell
+[ ] Project: (#1) My First Project / Subject: (#3) {$3} Chemistry / Task: (#31) {$8} [exercise] Organic chemistry notes - None
+[ ] Project: (#1) My First Project / Subject: (#3) {$3} Chemistry / Task: (#28) {$5} [reading] Chemical reactions lab - Foot
+[ ] Project: (#1) My First Project / Subject: (#3) {$3} Chemistry / Task: (#29) {$6} [reading] Periodic table study - Soldier
+[ ] Project: (#1) My First Project / Subject: (#3) {$3} Chemistry / Task: (#28) {$5} [reading] Chemical reactions lab - Foot
+[ ] Project: (#1) My First Project / Subject: (#3) {$3} Chemistry / Task: (#29) {$6} [reading] Periodic table study - Soldier
+[ ] Project: (#1) My First Project / Subject: (#3) {$3} Chemistry / Task: (#30) {$7} [project] Biochemistry research - Cell
+[ ] Project: (#1) My First Project / Subject: (#3) {$3} Chemistry / Task: (#31) {$8} [exercise] Organic chemistry notes - None
+
+26/01/2026 - Monday --------------------------------------------------------------
+
+Project: (#1) My First Project - (7):
+
+[ ] Project: (#1) My First Project / Subject: (#3) {$3} Chemistry / Task: (#32) {$9} [project] Biochemistry research - Rather
+[ ] Project: (#1) My First Project / Subject: (#3) {$3} Chemistry / Task: (#71) {$10} [reading] Chemical reactions lab - Agree
+[ ] Project: (#1) My First Project / Subject: (#3) {$3} Chemistry / Task: (#73) {$12} [exercise] Stoichiometry problems - Factor
+[ ] Project: (#1) My First Project / Subject: (#3) {$3} Chemistry / Task: (#73) {$12} [exercise] Stoichiometry problems - Factor
+[ ] Project: (#1) My First Project / Subject: (#3) {$3} Chemistry / Task: (#84) {$14} [research] Periodic table study - Other
+[ ] Project: (#1) My First Project / Subject: (#3) {$3} Chemistry / Task: (#84) {$14} [research] Periodic table study - Other
+[ ] Project: (#1) My First Project / Subject: (#3) {$3} Chemistry / Task: (#85) {$15} [research] Stoichiometry problems - Recent
+
+27/01/2026 - Tuesday -------------------------------------------------------------
+
+Project: (#1) My First Project - (8):
+
+[ ] Project: (#1) My First Project / Subject: (#4) {$4} Data Science / Task: (#11) {$2} [project] Data cleaning - Prepare
+[ ] Project: (#1) My First Project / Subject: (#4) {$4} Data Science / Task: (#12) {$3} [project] Data visualization - Stand
+[ ] Project: (#1) My First Project / Subject: (#4) {$4} Data Science / Task: (#13) {$4} [reading] Data cleaning - Thought
+[ ] Project: (#1) My First Project / Subject: (#4) {$4} Data Science / Task: (#11) {$2} [project] Data cleaning - Prepare
+[ ] Project: (#1) My First Project / Subject: (#4) {$4} Data Science / Task: (#12) {$3} [project] Data visualization - Stand
+[ ] Project: (#1) My First Project / Subject: (#4) {$4} Data Science / Task: (#13) {$4} [reading] Data cleaning - Thought
+[ ] Project: (#1) My First Project / Subject: (#4) {$4} Data Science / Task: (#14) {$5} [exercise] Data visualization - Well
+[ ] Project: (#1) My First Project / Subject: (#4) {$4} Data Science / Task: (#77) {$6} [activity] Data cleaning - Only
+
+28/01/2026 - Wednesday -----------------------------------------------------------
+
+Project: (#1) My First Project - (7):
+
+[ ] Project: (#1) My First Project / Subject: (#4) {$4} Data Science / Task: (#81) {$7} [exercise] Data visualization - Dinner
+[ ] Project: (#1) My First Project / Subject: (#4) {$4} Data Science / Task: (#82) {$8} [reading] Python coding exercise - Drop
+[ ] Project: (#1) My First Project / Subject: (#5) {$5} History / Task: (#18) {$1} [research] Ancient civilizations presentation - Event
+[ ] Project: (#1) My First Project / Subject: (#5) {$5} History / Task: (#19) {$2} [research] Civil rights research - Idea
+[ ] Project: (#1) My First Project / Subject: (#5) {$5} History / Task: (#22) {$5} [project] Historical timelines - Admit
+[ ] Project: (#1) My First Project / Subject: (#5) {$5} History / Task: (#22) {$5} [project] Historical timelines - Admit
+[ ] Project: (#1) My First Project / Subject: (#5) {$5} History / Task: (#22) {$5} [project] Historical timelines - Admit
+
+29/01/2026 - Thursday ------------------------------------------------------------
+
+Project: (#1) My First Project - (7):
+
+[ ] Project: (#1) My First Project / Subject: (#5) {$5} History / Task: (#34) {$7} [reading] Civil rights research - House
+[ ] Project: (#1) My First Project / Subject: (#5) {$5} History / Task: (#36) {$9} [research] World War II essay - Indicate
+[ ] Project: (#1) My First Project / Subject: (#5) {$5} History / Task: (#34) {$7} [reading] Civil rights research - House
+[ ] Project: (#1) My First Project / Subject: (#5) {$5} History / Task: (#36) {$9} [research] World War II essay - Indicate
+[ ] Project: (#1) My First Project / Subject: (#5) {$5} History / Task: (#36) {$9} [research] World War II essay - Indicate
+[ ] Project: (#1) My First Project / Subject: (#5) {$5} History / Task: (#37) {$10} [activity] Medieval history reading - Treatment
+[ ] Project: (#1) My First Project / Subject: (#5) {$5} History / Task: (#38) {$11} [activity] Historical timelines - Price
+
+30/01/2026 - Friday --------------------------------------------------------------
+
+Project: (#1) My First Project - (7):
+
+[ ] Project: (#1) My First Project / Subject: (#5) {$5} History / Task: (#74) {$12} [exercise] Ancient civilizations presentation - Improve
+[ ] Project: (#1) My First Project / Subject: (#5) {$5} History / Task: (#76) {$14} [reading] Medieval history reading - Off
+[ ] Project: (#1) My First Project / Subject: (#5) {$5} History / Task: (#76) {$14} [reading] Medieval history reading - Off
+[ ] Project: (#1) My First Project / Subject: (#5) {$5} History / Task: (#79) {$16} [research] Civil rights research - Trial
+[ ] Project: (#1) My First Project / Subject: (#5) {$5} History / Task: (#80) {$17} [research] World War II essay - Light
+[ ] Project: (#1) My First Project / Subject: (#5) {$5} History / Task: (#79) {$16} [research] Civil rights research - Trial
+[ ] Project: (#1) My First Project / Subject: (#5) {$5} History / Task: (#80) {$17} [research] World War II essay - Light
+
